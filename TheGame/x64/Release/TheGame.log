@@ -1,0 +1,7 @@
+﻿  theGameSource.cpp
+e:\thegame\thegame\thegamesource.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+e:\thegame\thegame\thegamesource.cpp(167): warning C4715: 'getHandSize': not all control paths return a value
+  All 180 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TheGame.vcxproj -> E:\TheGame\x64\Release\TheGame.exe

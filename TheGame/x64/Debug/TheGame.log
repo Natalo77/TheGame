@@ -1,0 +1,8 @@
+﻿  theGameSource.cpp
+c:\users\u1661665\downloads\thegame\thegame\thegamesource.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\u1661665\downloads\thegame\thegame\thegamesource.cpp(472): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\u1661665\downloads\thegame\thegame\thegamesource.cpp(563): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\u1661665\downloads\thegame\thegame\thegamesource.cpp(618): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\u1661665\downloads\thegame\thegame\thegamesource.cpp(167): warning C4715: 'getHandSize': not all control paths return a value
+  TheGame.vcxproj -> C:\Users\u1661665\Downloads\TheGame\x64\Debug\TheGame.exe
+  TheGame.vcxproj -> C:\Users\u1661665\Downloads\TheGame\x64\Debug\TheGame.pdb (Full PDB)
